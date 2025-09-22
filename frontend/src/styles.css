@@ -1,0 +1,5 @@
+/* custom helpers */
+.option-btn { background:#f3f4f6; border-radius:10px; padding:14px 16px; width:100%; text-align:left; border:1px solid #e6e6e6; }
+.option-btn:hover { transform:translateY(-2px); }
+.badge { background: linear-gradient(90deg,#6c63ff,#8b5cf6); color:white; padding:6px 10px; border-radius:999px; font-weight:600; font-size:12px; display:inline-block; }
+.floating-ask { position: fixed; right: 36px; bottom: 36px; }
