@@ -4,7 +4,7 @@ import Landing from './Landing';
 import Teacher from './Teacher';
 import Student from './Student';
 
-const socket = io('http://localhost:4000', {
+const socket = io('https://live-polling-system-3gy1.onrender.com', {
   reconnection: true,
   reconnectionDelay: 1000,
   reconnectionDelayMax: 5000,
